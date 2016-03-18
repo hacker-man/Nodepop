@@ -1,0 +1,23 @@
+{
+  "name": "nodepop",
+  "version": "1.0.0",
+  "description": "API que dará servicio a una app de venta de artículos de segunda mano",
+  "apidoc": {
+    "title": "Api-Anuncios",
+    "url" : "https://github.com/hacker-man/Nodepop.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker-man/Nodepop.git"
+  },
+  "author": "Lautaro Germán",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacker-man/Nodepop/issues"
+  },
+  "homepage": "https://github.com/hacker-man/Nodepop#readme"
+}

@@ -1,0 +1,74 @@
+{
+    "anuncios": [
+        {
+            "nombre": "Bicicleta",
+            "venta": true,
+            "precio": 230.15,
+            "foto": "bici.jpg",
+            "tags": ["lifestyle", "motor"]
+        },
+        { "nombre": "iPhone 3GS",
+            "venta": false,
+            "precio": 150.00,
+            "foto": "iphone.png",
+            "tags": ["lifestyle", "mobile"]
+        },
+        {
+            "nombre": "Android",
+            "venta": false,
+            "precio": 50.00,
+            "foto": "android.png",
+            "tags": ["work", "mobile"]
+        },
+        {
+            "nombre": "Moto",
+            "venta": true,
+            "precio": 550.00,
+            "foto": "moto.png",
+            "tags": ["motor"]
+        },
+         {
+            "nombre": "Paraguas",
+            "venta": true,
+            "precio": 10.00,
+            "foto": "paraguas.png",
+            "tags": ["lifestyle"]
+        },
+         {
+            "nombre": "Laptop",
+            "venta": true,
+            "precio": 650.00,
+            "foto": "laptop.png",
+            "tags": ["work", "lifestyle"]
+        },
+         {
+            "nombre": "MacAir",
+            "venta": true,
+            "precio": 1550.00,
+            "foto": "IOS.png",
+            "tags": ["work","lifestyle"]
+        },
+         {
+            "nombre": "Trineo",
+            "venta": true,
+            "precio": 50.00,
+            "foto": "Trineo.png",
+            "tags": ["lifestyle"]
+        },
+         {
+            "nombre": "Ratón",
+            "venta": true,
+            "precio": 550.00,
+            "foto": "raton.png",
+            "tags": ["work"]
+        },
+         {
+            "nombre": "Cargador USB",
+            "venta": true,
+            "precio": 15.00,
+            "foto": "USB.png",
+            "tags": ["work"]
+        }
+        
+    ]
+}
