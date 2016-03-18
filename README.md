@@ -31,6 +31,12 @@ Además si se desea tener datos de prueba en la base de datos Mongo, se puede ej
 
 ## Documentación del API:
 En el directorio *public* de la aplicación: http://localhost:3000/doc/
-## Changelog
 
+
+
+
+## Changelog
 ### v.1.0.0 - 2016-03-17
+### v.1.1.0 - 2016-03-18
+
+* Se ha optimizado el script de carga de datos implementadolo con *promesas*.
