@@ -1,5 +1,5 @@
 "use strict";
-var conn = require('../lib/connectDB');
+//var conn = require('../lib/connectDB');
 var mongoose = require('mongoose');
 
 var anuncioSchema = mongoose.Schema({
