@@ -1,0 +1,58 @@
+{
+    "usuarios": [
+         {
+             "nombre":"usuario1",
+             "email":"usuario1@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario2",
+             "email":"usuario2@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario3",
+             "email":"usuario3@email.com",
+             "clave":"1232456"
+         },
+        
+         {
+             "nombre":"usuario4",
+             "email":"usuario4@email.com",
+             "clave":"1232456"
+         },
+         
+         {
+             "nombre":"usuario5",
+             "email":"usuario5@email.com",
+             "clave":"1232456"
+         },
+         
+         {
+             "nombre":"usuario6",
+             "email":"usuario6@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario7",
+             "email":"usuario7@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario8",
+             "email":"usuario8@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario9",
+             "email":"usuario9@email.com",
+             "clave":"1232456"
+         },
+         {
+             "nombre":"usuario10",
+             "email":"usuario10@email.com",
+             "clave":"1232456"
+         }
+    ]
+    
+}
